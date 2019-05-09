@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="api_dockerfile" type="Dockerfile" />
+      <mapping pattern="webservice_dockerfile" type="Dockerfile" />
+      <mapping pattern="merge_dockerfile" type="Dockerfile" />
+      <mapping pattern="data_receive_dockerfile" type="Dockerfile" />
+      <mapping pattern="base_service_dockerfile" type="Dockerfile" />
+      <mapping pattern="nginx_dockerfile" type="Dockerfile" />
+      <mapping pattern="service_dockerfile" type="Dockerfile" />
+      <mapping pattern="merge_middle_ware_dockerfile" type="Dockerfile" />
+      <mapping pattern="fastdfs_dockerfile" type="Dockerfile" />
+      <mapping ext="conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>

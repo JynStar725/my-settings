@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/pudong" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/pudong" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/pudong" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/pudong">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-191.6707.61" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557387771612" />
+              <option name="buildTimestamp" value="1555426237716" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

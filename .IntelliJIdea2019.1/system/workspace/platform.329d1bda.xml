@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/api/basis/package.json" />
+      <path value="$PROJECT_DIR$/api/bylIdInfo/package.json" />
+      <path value="$PROJECT_DIR$/api/fileUpload/package.json" />
+      <path value="$PROJECT_DIR$/api/hongqiao_parking/package.json" />
+      <path value="$PROJECT_DIR$/api/idInfo/package.json" />
+      <path value="$PROJECT_DIR$/api/media/package.json" />
+      <path value="$PROJECT_DIR$/api/member/package.json" />
+      <path value="$PROJECT_DIR$/api/parking/package.json" />
+      <path value="$PROJECT_DIR$/api/tenant/package.json" />
+      <path value="$PROJECT_DIR$/api/visitor/package.json" />
+      <path value="$PROJECT_DIR$/api/wxservice/package.json" />
+      <path value="$PROJECT_DIR$/client/basis/package.json" />
+      <path value="$PROJECT_DIR$/client/hongqiao_parking/package.json" />
+      <path value="$PROJECT_DIR$/client/media/package.json" />
+      <path value="$PROJECT_DIR$/client/member/package.json" />
+      <path value="$PROJECT_DIR$/client/parking/package.json" />
+      <path value="$PROJECT_DIR$/client/tenant/package.json" />
+      <path value="$PROJECT_DIR$/client/visitor/package.json" />
+      <path value="$PROJECT_DIR$/client/wxservice/package.json" />
+      <path value="$PROJECT_DIR$/service/basis/package.json" />
+      <path value="$PROJECT_DIR$/service/hongqiao_parking/package.json" />
+      <path value="$PROJECT_DIR$/service/media/package.json" />
+      <path value="$PROJECT_DIR$/service/member/package.json" />
+      <path value="$PROJECT_DIR$/service/parking/package.json" />
+      <path value="$PROJECT_DIR$/service/tenant/package.json" />
+      <path value="$PROJECT_DIR$/service/visitor/package.json" />
+      <path value="$PROJECT_DIR$/service/wxservice/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/config/jwt.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/dist/member/bylmobile/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/activity/shop_discount_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/member/memberChangeRecord_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/member/member_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/member/member_integral_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/onlineActivity/enter_name_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/statistics/memberStatistics_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/statistics/shop_fre_statistics_controller.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/routes/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/services/member.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/template/会员新增统计列表.xlsx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/utils/insertChangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/utils/redis.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/config/jwt.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/src/app.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/src/controllers/discount/discount.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/src/controllers/discount/discountInfo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/src/controllers/discount/shopDiscount.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/tenant/src/controllers/userManage/employeeMangeController.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/tenant/src/routes/employeeMange.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/tenant/src/services/employee.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/services/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/store/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/store/mobile_index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/discountUse.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/enterNameAct.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/enterNameUsers.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/memberIntegral.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/memberRegister.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/memberSelfhelpIntegral.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/memberVerify.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/pageOauth.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/shopDiscount.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/activity/activityAdd.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/member/memberAdd.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/onlineActivity/enterActivityGive.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/onlineActivity/enterCardRecord.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/onlineActivity/enterNameAdd.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/statistics/shopDisFrequencyStatistics.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/services/discount/discountInfo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/store/modules/discount/discountInfo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/discount/discountInfo.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/discount/discountUse.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/discount/shopDiscountList.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/system/systemAdduserList.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/tenant/src/services/userManage/employeeCenter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/tenant/src/views/shopManage/shopInfoDetail.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/tenant/src/views/userManage/employeeList.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/tenant/src/views/userManage/tentEmployeeList.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/config/basic.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/config/develop.basic.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/config/staging.basic.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/src/views/components/register/tenantFaceRegister.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/src/views/components/register/tenantRegister.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/src/views/components/register/visitorsRegister.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/visitor/src/views/components/tenant/cardManagement.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/BASISDB/incremental/43-白玉兰会员系统-菜单数据-统计分析-店铺优惠码统计-20190319.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/basis/config/JsSDKTicket.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/basis/config/token.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/controllers/member/member_integral_controllers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/models/data.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/routes/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/routes/member/member_integral_routes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/parking/src/controllers/discount/discount_controllers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/parking/src/models/discount_list.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/parking/src/routes/discount/discount.router.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/tenant/config/basic.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/tenant/src/controllers/employeeController.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/tenant/src/routes/employee.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/controllers/pointsMall/goods_manage_controllers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/routes/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/routes/pointsMall/goodsManageInfo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/routes/pointsMall/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/services/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/member/src/services/pointsMall.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/api/parking/src/routes/fdfsApi.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/VIP.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/arrow_down.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/downMenu.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/exchange.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/exchangeEnd.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/intCard1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/intCard2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/intCardvip.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/offer.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/search.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/starImg.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/test.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/卡券/卡券2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/卡券/卡券3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/卡券/卡券4.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/卡券/卡券vip.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg.zip</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/VIP.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/starImg.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/二维码.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/兑换.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/卡券1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/卡券2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/卡券3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/卡券4.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/可使用.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/新建文件夹/切图_svg/已领完.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._VIP.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._二维码.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._兑换.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._可使用-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._已领完-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._我的卡券.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._折叠.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._提示.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._搜索.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._标签-兑换.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._积分.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/__MACOSX/白玉兰-积分/._领完-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/VIP.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/二维码.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/兑换.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/可使用-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/已领完-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/我的卡券.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/折叠.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/提示.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/搜索.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/标签-兑换.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/积分.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/assets/img/mobile/白玉兰-积分/白玉兰-积分/领完-标签.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/services/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/services/pointsMall/goodsManageList.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/store/modules/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/store/modules/pointsMall/goodsManageList.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/config/vue-better-scroll.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/byl_mobile_vue/mobile/memberExchangeRule.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/pointsMall/exchangeRecord.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/pointsMall/goodsAdd.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/pointsMall/goodsEdit.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/pointsMall/goodsManageList.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/member/src/views/components/pointsMall/goodsType.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/discount/coupon.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/client/parking/src/views/components/discount/preview.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/BASISDB/incremental/44-白玉兰会员系统-菜单数据-手机端-会员自助积分20190325.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/BASISDB/incremental/45-白玉兰会员系统-菜单数据-积分商城管理-商品管理-20190422.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/BASISDB/incremental/46-白玉兰会员系统-菜单数据-手机端-会员积分商城20190425.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/MEMBERDB/incremental/23-白玉兰会员系统-会员升级性别统计旧数据处理-20190402.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/VISITORDB/incremental/1-白玉兰访客系统-卡片号四位变六位数据处理-20190402.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/ZHSQDB/incremental/45-白玉兰停车系统-菜单数据-折免管理-优惠券-20190328.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/ZHSQDB/incremental/46-白玉兰停车系统-折免数据-添加类型字段-区分优惠券和折免-20190329.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/controllers/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/controllers/pointsMall/goods_manage_controllers.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/routes/pointsMall/exchangeRecord.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/routes/pointsMall/goodsManegeInfo.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/service/member/src/routes/pointsMall/index.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/database/BASISDB/incremental/44-白玉兰会员系统-菜单数据-手机端-会员自住积分20190325.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="19186" />
+  </component>
+</project>
